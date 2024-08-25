@@ -10,14 +10,14 @@ module.exports = {
      */
     botname: process.env.BotName || "Queen Anya Bot",
     footer: process.env.Footer || "© Powered By Queen Anya Bot",
-    prefa: process.env.Prefix || "-",
+    prefa: process.env.Prefix || ".",
     themeemoji: process.env.ThemeEmoji || "🎐",
 
     /**
      * owner details and parameters
      */
-    ownername: process.env.Owner_Name || "Pika~Kun",
-    ownernumber: process.env.Owner_Number || "916900904828",
+    ownername: process.env.Owner_Name || "乡Ｄ𝙽 ⃐🎋⃑ 𝙊𝘍𝘊 🎎🎭〴",
+    ownernumber: process.env.Owner_Number || "94764984597",
     instagramId: process.env.Insta || "3.69_pika",
 
     /**
@@ -29,8 +29,8 @@ module.exports = {
     groupLink: process.env.GcLink || "https://chat.whatsapp.com/E490r0wSpSr89XkCWeGtnX",
     warns: Number(process.env.Warn_Limits) || 3,
     cooldown: Number(process.env.Cooldown_Timer_Seconds) || 5, // default cooldown time per command in seconds
-    mongoUrl: process.env.MongoDB || "YOUR_MONGODB_URL",
-    sessionId: process.env.SESSION_ID || "YOUR_SESSION_ID",
+    mongoUrl: process.env.MongoDB || "mongodb+srv://nimnadaanuththara62:JKTjroMYE88DmXH6@cluster0.ajet4kc.mongodb.net/",
+    sessionId: process.env.SESSION_ID || "dXd5Z_AN_YA_2Z_AN_YA_6am4=",
 
     /**
      * thumbnails and medias
